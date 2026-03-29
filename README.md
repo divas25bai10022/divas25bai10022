@@ -2,11 +2,14 @@
 
 ### 🎓 About Me
 **Branch:** B.Tech [Computer Science Engineering(AI/ML)](*currently 1st year)
+
 **Institution:** VIT Bhopal University (Batch 2025-2029)
 
 ### 🛠️ Tech Stack I'm Exploring
 **Languages:** Python, C++
+
 **Tools:** GitHub, Google Workspace, Canva 
+
 **Platforms:** HackerRank, LinkedIn , kaggle
 
 
